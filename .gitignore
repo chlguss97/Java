@@ -1,0 +1,7 @@
+touch .gitignore
+echo ".settings/" >> .gitignore
+echo "bin/" >> .gitignore
+echo "target/" >> .gitignore
+echo ".classpath" >> .gitignore
+echo ".project" >> .gitignore
+echo ".DS_Store" >> .gitignore

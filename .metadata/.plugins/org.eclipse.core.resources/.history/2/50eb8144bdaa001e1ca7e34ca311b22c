@@ -1,0 +1,12 @@
+
+
+// class : 서로 연관있는 데이터를 묶어주는 설계도....
+public class Student {
+	
+	//이 묶음안에 저장하기 원하는 데이터를 저장할 변수들을 나열
+	String name;
+	int kor;
+	int eng;
+	double aver;
+
+}
